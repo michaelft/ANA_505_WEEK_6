@@ -3,7 +3,7 @@ The SVM Algorithm Model has an accuracy of 97.3%
 
 
 
-The K Means Algorithm Model predicts has an accuracy of 88.67%
+The K Means Algorithm Model has an accuracy of 88.67%
 
 
 
